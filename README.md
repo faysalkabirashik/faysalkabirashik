@@ -17,9 +17,7 @@ from systems programming and robotics to machine learning, research, and full-st
   <a href="https://github.com/faysalkabirashik">
     <img src="https://img.shields.io/badge/GitHub-faysalkabirashik-black?style=flat-square&logo=github">
   </a>
-  <a href="https://ar.iub.edu.bd/xmlui/handle/11348/1577">
-    <img src="https://img.shields.io/badge/Thesis-IUB%20Repository-green?style=flat-square">
-  </a>
+
 </p>
 
 </div>
