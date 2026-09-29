@@ -52,6 +52,7 @@ I enjoy working on problems that involve both software and systems thinking — 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### AI / ML & Data
 
@@ -60,6 +61,7 @@ I enjoy working on problems that involve both software and systems thinking — 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 ### Systems / Embedded / Robotics
@@ -67,17 +69,28 @@ I enjoy working on problems that involve both software and systems thinking — 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### Web Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square)
 
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
 ---
+
 
 ## 🔨 Selected Work
 
@@ -85,11 +98,8 @@ I enjoy working on problems that involve both software and systems thinking — 
 
 Desktop-based software project for simulating metro rail operations with role-based workflows, passenger services, authentication, operational management, train configuration, scheduling, and public notification features.
 
-**Java:**  
-https://github.com/faysalkabirashik/DhakaMetroRailManagementSystem-OOP-Project
-
-**C++ Environment:**  
-https://github.com/faysalkabirashik/Dhaka-Metro-Rail-C-Environment
+**[Java Version](https://github.com/faysalkabirashik/DhakaMetroRailManagementSystem-OOP-Project)** ·
+**[C++ Environment](https://github.com/faysalkabirashik/Dhaka-Metro-Rail-C-Environment)**
 
 ---
 
@@ -97,7 +107,7 @@ https://github.com/faysalkabirashik/Dhaka-Metro-Rail-C-Environment
 
 C/C++ and Arduino-based robotics project integrating sensors, motor control, PWM, serial communication, obstacle handling, autonomous navigation, and hardware-software interaction.
 
-https://github.com/faysalkabirashik/Automated-Weeding-Robot-with-Autonomous-navigation
+**[Repository](https://github.com/faysalkabirashik/Automated-Weeding-Robot-with-Autonomous-navigation)**
 
 ---
 
@@ -105,7 +115,7 @@ https://github.com/faysalkabirashik/Automated-Weeding-Robot-with-Autonomous-navi
 
 Systems-programming work involving Linux processes, CPU scheduling, Win32 programming, multithreading, synchronization, and kernel-module development.
 
-https://github.com/faysalkabirashik/OS-Final-Project
+**[Repository](https://github.com/faysalkabirashik/OS-Final-Project)**
 
 ---
 
@@ -113,7 +123,7 @@ https://github.com/faysalkabirashik/OS-Final-Project
 
 Full-stack web application developed for community-oriented services, combining frontend, backend, database, and user workflows.
 
-https://github.com/faysalkabirashik/Community-Driven-Masjid-Platform-Baitul-Aman-Masjid
+**[Repository](https://github.com/faysalkabirashik/Community-Driven-Masjid-Platform-Baitul-Aman-Masjid)**
 
 ---
 
@@ -123,7 +133,7 @@ https://github.com/faysalkabirashik/Community-Driven-Masjid-Platform-Baitul-Aman
 
 Senior thesis research involving **remote sensing, LULC analysis, Sentinel-2 imagery, nighttime lights, population data, deep learning, semantic segmentation, and spatial analysis** across 12 Private Economic Zones.
 
-📄 https://ar.iub.edu.bd/xmlui/handle/11348/1577
+📄 **[IUB Thesis Repository](https://ar.iub.edu.bd/xmlui/handle/11348/1577)**
 
 ### Conference Research
 
@@ -150,10 +160,18 @@ Senior thesis research involving **remote sensing, LULC analysis, Sentinel-2 ima
 
 ---
 
+
 ## 📫 Let's Connect
 
-**LinkedIn:**  
-https://www.linkedin.com/in/foysalkabirashik/
-
-**Email:**  
-faysalkabirashik@gmail.com
+<p>
+  <a href="https://www.linkedin.com/in/foysalkabirashik/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <br>
+  <a href="https://github.com/faysalkabirashik">
+    <img src="https://img.shields.io/badge/GitHub-faysalkabirashik-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <a href="mailto:faysalkabirashik@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+</p>
