@@ -1,81 +1,161 @@
-# Hi, I'm Md. Foysal Kabir Ashik 
- 
-### Software Engineer | Python, C++ & Java | AI/ML, Systems, Robotics & Full-Stack 
- 
-Computer Science and Engineering graduate from Independent University, Bangladesh, with hands-on experience across software engineering, systems programming, embedded and robotics systems, IoT, AI/ML, computer vision, research, and full-stack web development. 
- 
-I enjoy working on end-to-end technical problems, from requirements analysis and system design to implementation, debugging, experimentation, and deployment. My work includes software systems, hardware-integrated applications, machine-learning workflows, data-driven research, and web-based platforms. 
- 
-## Technical Focus 
- 
-- **Programming:** Python, C++, C, Java, JavaScript 
-- **Software Engineering:** Data Structures & Algorithms, Object-Oriented Programming, STL, Multithreading, Operating Systems, Computer Networks, Database Systems, Design Patterns 
-- **AI & Machine Learning:** PyTorch, scikit-learn, NumPy, SciPy, Pandas, Matplotlib, OpenCV 
-- **Computer Vision & Research:** Deep Learning, Semantic Segmentation, Image Processing, Remote Sensing, Spatial Analysis, Data-Driven Systems 
-- **Embedded & Robotics:** Arduino, ESP8266, Sensor Integration, Motor Control, PWM, Serial Communication, Autonomous Navigation 
-- **Web Development:** MERN Stack, React.js, Node.js, Express.js, MongoDB, REST APIs, HTML/CSS, Tailwind CSS 
-- **Tools:** Git, GitHub, VS Code, PyCharm, IntelliJ IDEA, Code::Blocks, QGIS, Google Earth Pro, LaTeX, Postman, Docker, Linux/Bash, Jupyter Notebook, MySQL Workbench 
- 
-## Selected Projects 
- 
-### Dhaka Metro Rail Management System 
-Desktop-based software system developed to simulate metro rail operations, including role-based workflows, passenger services, operational management, authentication, train configuration, scheduling, and public notification workflows. 
- 
-[Java Version](https://github.com/faysalkabirashik/DhakaMetroRailManagementSystem-OOP-Project) ·
-[C++ Environment](https://github.com/faysalkabirashik/Dhaka-Metro-Rail-C-Environment)
+<div align="center">
 
-### Automated Weeding Robot with Autonomous Navigation
-C/C++ and Arduino-based robotics project involving sensor integration, motor control, obstacle response, serial communication, autonomous navigation, and hardware-software integration.
+# Md. Foysal Kabir Ashik
 
-[Repository](https://github.com/faysalkabirashik/Automated-Weeding-Robot-with-Autonomous-navigation)
+### Software Engineer | Python, C++ & Java | AI/ML • Systems • Robotics • Full-Stack
 
-### Operating Systems Programming Portfolio
-Systems-programming projects involving Linux process management, CPU scheduling, native Win32 programming, multithreading, synchronization, and kernel-module development.
+I build software, intelligent systems, and hardware-integrated applications —
+from systems programming and robotics to machine learning, research, and full-stack development.
 
-[Repository](https://github.com/faysalkabirashik/OS-Final-Project)
+<p>
+  <a href="https://www.linkedin.com/in/foysalkabirashik/">
+    <img src="https://img.shields.io/badge/LinkedIn-Foysal%20Kabir%20Ashik-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:faysalkabirashik@gmail.com">
+    <img src="https://img.shields.io/badge/Email-faysalkabirashik%40gmail.com-red?style=flat-square&logo=gmail">
+  </a>
+  <a href="https://github.com/faysalkabirashik">
+    <img src="https://img.shields.io/badge/GitHub-faysalkabirashik-black?style=flat-square&logo=github">
+  </a>
+  <a href="https://ar.iub.edu.bd/xmlui/handle/11348/1577">
+    <img src="https://img.shields.io/badge/Thesis-IUB%20Repository-green?style=flat-square">
+  </a>
+</p>
 
-### Community-Driven Masjid Platform
-Full-stack web application developed as an academic software project with frontend, backend, database, and user-facing workflows.
+</div>
 
-[Repository](https://github.com/faysalkabirashik/Community-Driven-Masjid-Platform-Baitul-Aman-Masjid)
+---
 
-## Research
+## 👋 About Me
 
-### Senior Project Thesis
-**Spatiotemporal Analysis and Urbanization Trajectories of Private Economic Zones in Bangladesh**
+I'm a Computer Science and Engineering graduate from **Independent University, Bangladesh**, with interests spanning **software engineering, systems programming, AI/ML, computer vision, robotics, embedded systems, IoT, and data-driven research**.
 
-Research involving remote sensing, LULC analysis, Sentinel-2 imagery, nighttime lights, population data, deep learning, semantic segmentation, and spatial analysis.
+I enjoy working on problems that involve both software and systems thinking — from designing applications and APIs to implementing algorithms, integrating hardware, experimenting with machine-learning models, and analyzing real-world data.
 
-[IUB Thesis Repository](https://ar.iub.edu.bd/xmlui/handle/11348/1577)
+---
 
-### Conference Paper
+## 🚀 What I Work On
+
+- **Software Engineering** — application development, system design, debugging, APIs, databases
+- **Systems Programming** — C/C++, operating systems, multithreading, synchronization, process management
+- **AI / ML & Computer Vision** — deep learning, image processing, semantic segmentation, computer vision
+- **Robotics & Embedded Systems** — Arduino, ESP8266, sensors, motor control, autonomous navigation
+- **Full-Stack Development** — MERN stack, REST APIs, database-driven web applications
+- **Research & Data-Driven Systems** — remote sensing, spatial analysis, machine learning, multimodal data
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### AI / ML & Data
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### Systems / Embedded / Robotics
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Web Development
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square)
+
+---
+
+## 🔨 Selected Work
+
+### 🚇 Dhaka Metro Rail Management System
+
+Desktop-based software project for simulating metro rail operations with role-based workflows, passenger services, authentication, operational management, train configuration, scheduling, and public notification features.
+
+**Java:**  
+https://github.com/faysalkabirashik/DhakaMetroRailManagementSystem-OOP-Project
+
+**C++ Environment:**  
+https://github.com/faysalkabirashik/Dhaka-Metro-Rail-C-Environment
+
+---
+
+### 🤖 Automated Weeding Robot
+
+C/C++ and Arduino-based robotics project integrating sensors, motor control, PWM, serial communication, obstacle handling, autonomous navigation, and hardware-software interaction.
+
+https://github.com/faysalkabirashik/Automated-Weeding-Robot-with-Autonomous-navigation
+
+---
+
+### 💻 Operating Systems Programming
+
+Systems-programming work involving Linux processes, CPU scheduling, Win32 programming, multithreading, synchronization, and kernel-module development.
+
+https://github.com/faysalkabirashik/OS-Final-Project
+
+---
+
+### 🌐 Community-Driven Masjid Platform
+
+Full-stack web application developed for community-oriented services, combining frontend, backend, database, and user workflows.
+
+https://github.com/faysalkabirashik/Community-Driven-Masjid-Platform-Baitul-Aman-Masjid
+
+---
+
+## 🔬 Research
+
+### Spatiotemporal Analysis and Urbanization Trajectories of Private Economic Zones in Bangladesh
+
+Senior thesis research involving **remote sensing, LULC analysis, Sentinel-2 imagery, nighttime lights, population data, deep learning, semantic segmentation, and spatial analysis** across 12 Private Economic Zones.
+
+📄 https://ar.iub.edu.bd/xmlui/handle/11348/1577
+
+### Conference Research
+
 **Design Solution of An Integrated and Sustainable Digital Framework for Dengue Management in Resource-Limited Settings**
 
-4th International Conference on Human-Centric Smart Computing (ICHCSC 2025) — Accepted and Presented.
+**ICHCSC 2025 — Accepted & Presented**
 
-## Competitive Programming & Leadership
+---
 
-- Ranked 2nd, IUB Wing — ICPC Asia Dhaka Regional Preliminary Contest 2025
-- Qualified for and participated in the ICPC Asia Dhaka Regional Onsite Contest 2025
-- Team Lead, IUB_Botshos Competitive Programming Team
-- Competitive Programming Trainer & Sub-Executive, IUB Programming Club
+## 🏆 Highlights
 
-## Experience
+- 🥈 **2nd — IUB Wing**, ICPC Asia Dhaka Regional Preliminary Contest 2025
+- 🎯 Qualified for and participated in the **ICPC Asia Dhaka Regional Onsite Contest 2025**
+- 👨‍💻 **Team Lead — IUB_Botshos**, Competitive Programming Team
+- 🧑‍🏫 **Competitive Programming Trainer & Sub-Executive**, IUB Programming Club
+- 🏅 **Joint 2nd Runners-Up**, OOP Project Showcase, Techfest Spring 2024
+- 🎓 Multiple **IUB Academic Awards**
 
-**Software Engineer / Software Engineer Intern — Nextile Studio**
+---
 
-Worked on MERN-stack software development, frontend and backend features, REST APIs, application logic, debugging, maintenance, and adapting to evolving project requirements.
+## 🌱 Currently Exploring
 
-**Teaching Assistant — Independent University, Bangladesh**
+**C++ systems programming · multithreading · embedded software · Qt · machine learning · computer vision · research-oriented software development**
 
-Conducted tutorials and problem-solving sessions in Data Structures, Data Communication & Computer Networks, and hardware-related laboratory courses, with additional academic and student-support responsibilities.
+---
 
-## Interests
+## 📫 Let's Connect
 
-Software Engineering · Systems Programming · AI/ML · Computer Vision · Robotics & Embedded Systems · Data-Driven Research
+**LinkedIn:**  
+https://www.linkedin.com/in/foysalkabirashik/
 
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/faysalkabirashik/)
-- [GitHub](https://github.com/faysalkabirashik)
-- Email: faysalkabirashik@gmail.com
+**Email:**  
+faysalkabirashik@gmail.com
