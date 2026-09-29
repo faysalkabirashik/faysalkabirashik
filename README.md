@@ -2,7 +2,7 @@
 
 # Md. Foysal Kabir Ashik
 
-### Software Engineer | Python, C++ & Java | AI/ML • Systems • Robotics • Full-Stack
+### Software Engineer | Jr. Researcher | Python, C++ & Java | AI/ML • Systems • Robotics • Full-Stack 
 
 I build software, intelligent systems, and hardware-integrated applications —
 from systems programming and robotics to machine learning, research, and full-stack development.
